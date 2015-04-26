@@ -1,0 +1,10 @@
+[  "nombre":  8.12e57
+    {   "Estado" : null },
+    [   "Ok": True,  
+       "notOk": FalsE,
+         ""] ,
+	[ "sql",
+		{ "id" : "select_all" },
+		"select * from persona order by ci"
+	]
+]
